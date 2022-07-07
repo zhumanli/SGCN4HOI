@@ -3,7 +3,7 @@ SGCN4HOI: A Skeleton-aware Graph Convolutional Network for Human-Object Interact
 ![Image text](https://github.com/zhumanli/SGCN4HOI/blob/main/framework.png)
 
 # Dataset & Requirements
-Please follow the Installation in [VSGNet] (https://github.com/ASMIftekhar/VSGNet) to prepare the V-COCO dataset and install requirements.txt. Note that this is python2 virtual environment.
+Please follow the Installation in [VSGNet](https://github.com/ASMIftekhar/VSGNet) to prepare the V-COCO dataset and install requirements.txt. Note that this is python2 virtual environment.
 
 # Training 
 To train the model from scratch (inside "scripts/"):
