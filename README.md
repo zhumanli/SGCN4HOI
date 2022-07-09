@@ -27,3 +27,6 @@ If you find this work useful, please consider our paper to cite:
  year={2022},
 }
 ```
+
+# Other
+Our SGCN4HOI is based on [VSGNet](https://github.com/ASMIftekhar/VSGNet).
