@@ -1,7 +1,5 @@
 # SGCN4HOI
-SGCN4HOI: A Skeleton-aware Graph Convolutional Network for Human-Object Interaction Detection
-
-[Paper](https://arxiv.org/pdf/2207.05733.pdf)
+SGCN4HOI: A Skeleton-aware Graph Convolutional Network for Human-Object Interaction Detection ([Paper](https://arxiv.org/pdf/2207.05733.pdf))
 ![Image text](https://github.com/zhumanli/SGCN4HOI/blob/main/framework.png)
 
 # Dataset & Requirements
